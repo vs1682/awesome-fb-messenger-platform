@@ -13,8 +13,9 @@
 - [Bots](#bots)
 
 ### Toolkits
-- [botkit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications for Slack, Fb Messenger and Twilio.
+- [Botkit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications for Slack, Fb Messenger and Twilio.
 - [Api.ai](http://content.api.ai/facebook-messenger-bot) - Build your intelligent, conversational bot in minutes.
+- [BotFramework](https://github.com/Microsoft/BotBuilder) - The Microsoft Bot Framework provides just what you need to build and connect intelligent bots.
 
 ### Documents
 - [Complete guide](https://developers.facebook.com/docs/messenger-platform/implementation) - A complete guide to make the bot from facebook.
@@ -23,3 +24,4 @@
 - [Messenger-bot-tutorial](https://github.com/jw84/messenger-bot-tutorial) - Facebook Messenger bot 15 minute tutorial.
 
 ### Bots
+- [Bot List](https://botlist.co/) - An App Store For Bots.
