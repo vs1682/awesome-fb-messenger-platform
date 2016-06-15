@@ -11,10 +11,10 @@
 - [Documents](#documents)
 - [Tutorials](#tutorials)
 - [Bots](#bots)
+- [NLP Services](#nlp-services)
 
 ### Toolkits
 - [Botkit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications for Slack, Fb Messenger and Twilio.
-- [Api.ai](http://content.api.ai/facebook-messenger-bot) - Build your intelligent, conversational bot in minutes.
 - [BotFramework](https://github.com/Microsoft/BotBuilder) - The Microsoft Bot Framework provides just what you need to build and connect intelligent bots.
 
 ### Documents
@@ -25,3 +25,7 @@
 
 ### Bots
 - [Bot List](https://botlist.co/) - An App Store For Bots.
+
+### NLP Services
+- [Api.ai](http://content.api.ai/facebook-messenger-bot) - Build your intelligent, conversational bot in minutes.
+- [Wit.ai](https://wit.ai/) - Natural Language Platform which converts sentences in entities.
