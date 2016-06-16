@@ -34,3 +34,4 @@
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/) - A suite of core NLP tools.
 - [Word2vec](https://code.google.com/archive/p/word2vec/) - This tool provides an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words.
 - [GloVe](http://nlp.stanford.edu/projects/glove/) - GloVe is an unsupervised learning algorithm for obtaining vector representations for words.
+- [awesome-nlp](https://github.com/keonkim/awesome-nlp) - An awesome list of nlp resources.
