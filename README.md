@@ -11,7 +11,7 @@
 - [Documents](#documents)
 - [Tutorials](#tutorials)
 - [Bots](#bots)
-- [NLP Services](#nlp-services)
+- [NLP Services And Resources](#nlp-services-and-resources)
 
 ### Toolkits
 - [Botkit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications for Slack, Fb Messenger and Twilio.
@@ -27,6 +27,10 @@
 ### Bots
 - [Bot List](https://botlist.co/) - An App Store For Bots.
 
-### NLP Services
+### NLP Services And Resources
 - [Api.ai](http://content.api.ai/facebook-messenger-bot) - Build your intelligent, conversational bot in minutes.
 - [Wit.ai](https://wit.ai/) - Natural Language Platform which converts sentences in entities.
+- [NLTK](http://www.nltk.org/) - NLTK is a platform for building Python programs to work with human language data.
+- [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/) - A suite of core NLP tools.
+- [Word2vec](https://code.google.com/archive/p/word2vec/) - This tool provides an efficient implementation of the continuous bag-of-words and skip-gram architectures for computing vector representations of words.
+- [GloVe](http://nlp.stanford.edu/projects/glove/) - GloVe is an unsupervised learning algorithm for obtaining vector representations for words.
